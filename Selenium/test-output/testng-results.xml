@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12400" started-at="2021-03-31T09:43:24 IST" finished-at="2021-03-31T09:43:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12400" started-at="2021-03-31T09:43:24 IST" finished-at="2021-03-31T09:43:36 IST">
+      <class name="Framework.BaseClass">
+        <test-method status="PASS" signature="login()[pri:0, instance:Framework.BaseClass@32a068d1]" name="login" duration-ms="12306" started-at="2021-03-31T09:43:24 IST" finished-at="2021-03-31T09:43:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Framework.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
